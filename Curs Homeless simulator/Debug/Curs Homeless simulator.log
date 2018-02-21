@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\main.cpp(4): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(160): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(161): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(235): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(236): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(441): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(442): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(852): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(853): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(1027): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(1028): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(1076): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(1077): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\hjbfr\onedrive\documents\visual studio 2015\projects\curs homeless simulator\curs homeless simulator\source.cpp(1556): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Curs Homeless simulator.vcxproj -> C:\Users\hjbfr\OneDrive\Documents\Visual Studio 2015\Projects\Curs Homeless simulator\Debug\Curs Homeless simulator.exe
+  Curs Homeless simulator.vcxproj -> C:\Users\hjbfr\OneDrive\Documents\Visual Studio 2015\Projects\Curs Homeless simulator\Debug\Curs Homeless simulator.pdb (Full PDB)
